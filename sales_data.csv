@@ -1,0 +1,865 @@
+date,region,customer_segment,revenue
+2019-01-31,North,Consumer,22741.79
+2019-01-31,North,Corporate,21154.34
+2019-01-31,North,Home Office,23119.22
+2019-01-31,South,Consumer,25307.57
+2019-01-31,South,Corporate,20914.62
+2019-01-31,South,Home Office,20914.66
+2019-01-31,East,Consumer,25448.03
+2019-01-31,East,Corporate,23418.59
+2019-01-31,East,Home Office,20326.31
+2019-01-31,West,Consumer,22856.4
+2019-01-31,West,Corporate,20341.46
+2019-01-31,West,Home Office,20335.68
+2019-02-28,North,Consumer,23352.98
+2019-02-28,North,Corporate,17964.88
+2019-02-28,North,Home Office,18435.78
+2019-02-28,South,Consumer,21342.36
+2019-02-28,South,Corporate,20216.0
+2019-02-28,South,Home Office,23533.69
+2019-02-28,East,Consumer,20478.02
+2019-02-28,East,Corporate,19217.32
+2019-02-28,East,Home Office,26412.2
+2019-02-28,West,Consumer,22183.64
+2019-02-28,West,Corporate,22916.9
+2019-02-28,West,Home Office,19186.21
+2019-03-31,North,Consumer,21939.04
+2019-03-31,North,Corporate,23577.31
+2019-03-31,North,Home Office,20422.52
+2019-03-31,South,Consumer,24239.25
+2019-03-31,South,Corporate,21798.4
+2019-03-31,South,Home Office,22570.77
+2019-03-31,East,Consumer,21795.73
+2019-03-31,East,Corporate,27930.7
+2019-03-31,East,Home Office,23266.26
+2019-03-31,West,Consumer,20655.72
+2019-03-31,West,Corporate,25356.36
+2019-03-31,West,Home Office,20247.89
+2019-04-30,North,Consumer,23570.24
+2019-04-30,North,Corporate,18148.9
+2019-04-30,North,Home Office,19727.61
+2019-04-30,South,Consumer,23540.23
+2019-04-30,South,Corporate,24894.24
+2019-04-30,South,Home Office,23476.5
+2019-04-30,East,Consumer,22758.96
+2019-04-30,East,Corporate,22295.32
+2019-04-30,East,Home Office,19351.77
+2019-04-30,West,Consumer,21248.47
+2019-04-30,West,Corporate,21896.48
+2019-04-30,West,Home Office,25690.88
+2019-05-31,North,Consumer,22959.05
+2019-05-31,North,Corporate,17692.4
+2019-05-31,North,Home Office,22910.21
+2019-05-31,South,Consumer,21137.29
+2019-05-31,South,Corporate,20407.69
+2019-05-31,South,Home Office,23629.19
+2019-05-31,East,Consumer,24677.5
+2019-05-31,East,Corporate,24428.2
+2019-05-31,East,Home Office,20001.96
+2019-05-31,West,Consumer,21326.97
+2019-05-31,West,Corporate,22928.16
+2019-05-31,West,Home Office,24538.86
+2019-06-30,North,Consumer,19552.06
+2019-06-30,North,Corporate,20285.85
+2019-06-30,North,Home Office,17984.16
+2019-06-30,South,Consumer,17759.48
+2019-06-30,South,Corporate,22781.31
+2019-06-30,South,Home Office,24140.6
+2019-06-30,East,Consumer,20569.97
+2019-06-30,East,Corporate,23258.83
+2019-06-30,East,Home Office,21654.09
+2019-06-30,West,Consumer,19137.2
+2019-06-30,West,Corporate,21653.49
+2019-06-30,West,Home Office,24595.09
+2019-07-31,North,Consumer,19310.43
+2019-07-31,North,Corporate,23311.61
+2019-07-31,North,Home Office,12850.64
+2019-07-31,South,Consumer,21454.76
+2019-07-31,South,Corporate,19617.62
+2019-07-31,South,Home Office,18652.48
+2019-07-31,East,Consumer,19629.4
+2019-07-31,East,Corporate,14431.08
+2019-07-31,East,Home Office,18850.82
+2019-07-31,West,Consumer,20292.78
+2019-07-31,West,Corporate,23094.74
+2019-07-31,West,Home Office,18104.32
+2019-08-31,North,Consumer,16430.69
+2019-08-31,North,Corporate,17197.53
+2019-08-31,North,Home Office,20740.43
+2019-08-31,South,Consumer,19273.8
+2019-08-31,South,Corporate,17127.52
+2019-08-31,South,Home Office,19735.09
+2019-08-31,East,Consumer,18694.62
+2019-08-31,East,Corporate,20873.54
+2019-08-31,East,Home Office,16696.79
+2019-08-31,West,Consumer,17632.77
+2019-08-31,West,Corporate,17471.65
+2019-08-31,West,Home Office,14793.14
+2019-09-30,North,Consumer,18940.3
+2019-09-30,North,Corporate,18852.64
+2019-09-30,North,Home Office,18212.78
+2019-09-30,South,Consumer,17613.53
+2019-09-30,South,Corporate,14661.57
+2019-09-30,South,Home Office,17148.39
+2019-09-30,East,Consumer,17343.21
+2019-09-30,East,Corporate,16194.31
+2019-09-30,East,Home Office,17796.79
+2019-09-30,West,Consumer,19210.13
+2019-09-30,West,Corporate,22915.46
+2019-09-30,West,Home Office,18636.44
+2019-10-31,North,Consumer,19395.8
+2019-10-31,North,Corporate,18565.81
+2019-10-31,North,Home Office,13955.0
+2019-10-31,South,Consumer,18685.64
+2019-10-31,South,Corporate,18902.5
+2019-10-31,South,Home Office,24910.03
+2019-10-31,East,Consumer,18271.02
+2019-10-31,East,Corporate,19505.79
+2019-10-31,East,Home Office,18665.14
+2019-10-31,West,Consumer,15830.23
+2019-10-31,West,Corporate,21608.98
+2019-10-31,West,Home Office,20631.76
+2019-11-30,North,Consumer,21977.58
+2019-11-30,North,Corporate,17726.53
+2019-11-30,North,Home Office,23506.99
+2019-11-30,South,Consumer,16495.37
+2019-11-30,South,Corporate,21467.14
+2019-11-30,South,Home Office,25476.14
+2019-11-30,East,Consumer,17523.66
+2019-11-30,East,Corporate,18584.26
+2019-11-30,East,Home Office,20249.13
+2019-11-30,West,Consumer,18741.31
+2019-11-30,West,Corporate,16123.34
+2019-11-30,West,Home Office,20171.41
+2019-12-31,North,Consumer,18994.24
+2019-12-31,North,Corporate,22833.98
+2019-12-31,North,Home Office,19351.44
+2019-12-31,South,Consumer,25524.84
+2019-12-31,South,Corporate,19691.87
+2019-12-31,South,Home Office,20844.85
+2019-12-31,East,Consumer,23683.79
+2019-12-31,East,Corporate,18572.84
+2019-12-31,East,Home Office,22218.65
+2019-12-31,West,Consumer,24917.86
+2019-12-31,West,Corporate,17631.29
+2019-12-31,West,Home Office,22111.58
+2020-01-31,North,Consumer,23949.71
+2020-01-31,North,Corporate,25254.56
+2020-01-31,North,Home Office,20207.62
+2020-01-31,South,Consumer,19998.86
+2020-01-31,South,Corporate,24604.85
+2020-01-31,South,Home Office,24042.46
+2020-01-31,East,Consumer,23926.23
+2020-01-31,East,Corporate,24166.12
+2020-01-31,East,Home Office,21599.94
+2020-01-31,West,Consumer,23880.63
+2020-01-31,West,Corporate,24032.68
+2020-01-31,West,Home Office,21514.12
+2020-02-29,North,Consumer,29212.51
+2020-02-29,North,Corporate,25732.66
+2020-02-29,North,Home Office,21569.82
+2020-02-29,South,Consumer,26189.46
+2020-02-29,South,Corporate,22111.37
+2020-02-29,South,Home Office,26515.79
+2020-02-29,East,Consumer,27444.57
+2020-02-29,East,Corporate,22496.37
+2020-02-29,East,Home Office,26956.52
+2020-02-29,West,Consumer,25580.03
+2020-02-29,West,Corporate,26603.23
+2020-02-29,West,Home Office,29290.06
+2020-03-31,North,Consumer,24486.53
+2020-03-31,North,Corporate,23215.66
+2020-03-31,North,Home Office,22876.21
+2020-03-31,South,Consumer,23060.47
+2020-03-31,South,Corporate,24907.25
+2020-03-31,South,Home Office,25952.88
+2020-03-31,East,Consumer,25791.73
+2020-03-31,East,Corporate,27167.96
+2020-03-31,East,Home Office,25132.5
+2020-03-31,West,Consumer,28733.84
+2020-03-31,West,Corporate,24438.36
+2020-03-31,West,Home Office,31900.42
+2020-04-30,North,Consumer,26412.24
+2020-04-30,North,Corporate,22705.18
+2020-04-30,North,Home Office,22170.84
+2020-04-30,South,Consumer,26054.26
+2020-04-30,South,Corporate,24289.42
+2020-04-30,South,Home Office,26633.08
+2020-04-30,East,Consumer,26031.17
+2020-04-30,East,Corporate,24666.0
+2020-04-30,East,Home Office,22731.09
+2020-04-30,West,Consumer,21060.96
+2020-04-30,West,Corporate,23731.79
+2020-04-30,West,Home Office,26989.07
+2020-05-31,North,Consumer,24435.23
+2020-05-31,North,Corporate,20785.65
+2020-05-31,North,Home Office,24332.95
+2020-05-31,South,Consumer,24863.29
+2020-05-31,South,Corporate,21690.36
+2020-05-31,South,Home Office,24284.31
+2020-05-31,East,Consumer,24045.52
+2020-05-31,East,Corporate,21042.57
+2020-05-31,East,Home Office,24794.47
+2020-05-31,West,Consumer,25301.96
+2020-05-31,West,Corporate,26607.63
+2020-05-31,West,Home Office,26534.51
+2020-06-30,North,Consumer,19105.83
+2020-06-30,North,Corporate,20205.44
+2020-06-30,North,Home Office,23837.59
+2020-06-30,South,Consumer,23834.46
+2020-06-30,South,Corporate,23837.62
+2020-06-30,South,Home Office,32181.83
+2020-06-30,East,Consumer,23977.23
+2020-06-30,East,Corporate,25388.91
+2020-06-30,East,Home Office,24935.0
+2020-06-30,West,Consumer,24178.48
+2020-06-30,West,Corporate,21761.83
+2020-06-30,West,Home Office,24447.42
+2020-07-31,North,Consumer,19267.94
+2020-07-31,North,Corporate,20607.95
+2020-07-31,North,Home Office,19986.59
+2020-07-31,South,Consumer,21404.69
+2020-07-31,South,Corporate,26986.65
+2020-07-31,South,Home Office,16531.84
+2020-07-31,East,Consumer,22915.65
+2020-07-31,East,Corporate,17168.21
+2020-07-31,East,Home Office,20020.17
+2020-07-31,West,Consumer,23922.38
+2020-07-31,West,Corporate,21360.7
+2020-07-31,West,Home Office,18505.64
+2020-08-31,North,Consumer,18463.66
+2020-08-31,North,Corporate,21950.92
+2020-08-31,North,Home Office,18426.01
+2020-08-31,South,Consumer,20793.07
+2020-08-31,South,Corporate,20365.85
+2020-08-31,South,Home Office,18622.92
+2020-08-31,East,Consumer,25611.78
+2020-08-31,East,Corporate,21836.72
+2020-08-31,East,Home Office,15189.07
+2020-08-31,West,Consumer,20718.06
+2020-08-31,West,Corporate,18597.46
+2020-08-31,West,Home Office,22383.01
+2020-09-30,North,Consumer,18018.7
+2020-09-30,North,Corporate,19713.16
+2020-09-30,North,Home Office,21262.47
+2020-09-30,South,Consumer,22164.39
+2020-09-30,South,Corporate,16999.26
+2020-09-30,South,Home Office,19163.75
+2020-09-30,East,Consumer,18812.64
+2020-09-30,East,Corporate,18366.68
+2020-09-30,East,Home Office,24413.64
+2020-09-30,West,Consumer,21012.45
+2020-09-30,West,Corporate,16847.79
+2020-09-30,West,Home Office,22294.65
+2020-10-31,North,Consumer,25857.31
+2020-10-31,North,Corporate,23133.09
+2020-10-31,North,Home Office,16753.5
+2020-10-31,South,Consumer,19341.34
+2020-10-31,South,Corporate,23719.2
+2020-10-31,South,Home Office,18782.75
+2020-10-31,East,Consumer,21661.47
+2020-10-31,East,Corporate,22488.51
+2020-10-31,East,Home Office,18234.6
+2020-10-31,West,Consumer,20403.11
+2020-10-31,West,Corporate,12448.76
+2020-10-31,West,Home Office,17990.95
+2020-11-30,North,Consumer,21168.58
+2020-11-30,North,Corporate,18680.54
+2020-11-30,North,Home Office,25881.03
+2020-11-30,South,Consumer,18224.65
+2020-11-30,South,Corporate,20699.89
+2020-11-30,South,Home Office,22126.85
+2020-11-30,East,Consumer,25403.18
+2020-11-30,East,Corporate,18210.34
+2020-11-30,East,Home Office,24707.91
+2020-11-30,West,Consumer,21825.58
+2020-11-30,West,Corporate,19346.23
+2020-11-30,West,Home Office,22955.26
+2020-12-31,North,Consumer,23947.65
+2020-12-31,North,Corporate,21949.46
+2020-12-31,North,Home Office,23624.51
+2020-12-31,South,Consumer,22486.72
+2020-12-31,South,Corporate,23733.79
+2020-12-31,South,Home Office,25105.33
+2020-12-31,East,Consumer,27415.04
+2020-12-31,East,Corporate,20355.46
+2020-12-31,East,Home Office,28782.58
+2020-12-31,West,Consumer,18569.78
+2020-12-31,West,Corporate,23070.54
+2020-12-31,West,Home Office,24920.79
+2021-01-31,North,Consumer,25802.48
+2021-01-31,North,Corporate,23543.25
+2021-01-31,North,Home Office,24579.69
+2021-01-31,South,Consumer,23867.5
+2021-01-31,South,Corporate,23626.59
+2021-01-31,South,Home Office,27224.01
+2021-01-31,East,Consumer,25992.54
+2021-01-31,East,Corporate,23367.73
+2021-01-31,East,Home Office,27349.0
+2021-01-31,West,Consumer,25868.25
+2021-01-31,West,Corporate,27132.16
+2021-01-31,West,Home Office,26674.07
+2021-02-28,North,Consumer,24275.59
+2021-02-28,North,Corporate,24947.62
+2021-02-28,North,Home Office,28216.31
+2021-02-28,South,Consumer,27874.0
+2021-02-28,South,Corporate,26295.82
+2021-02-28,South,Home Office,26641.39
+2021-02-28,East,Consumer,29542.24
+2021-02-28,East,Corporate,24869.15
+2021-02-28,East,Home Office,27715.82
+2021-02-28,West,Consumer,25842.59
+2021-02-28,West,Corporate,25803.87
+2021-02-28,West,Home Office,29095.02
+2021-03-31,North,Consumer,28963.54
+2021-03-31,North,Corporate,28933.77
+2021-03-31,North,Home Office,30163.7
+2021-03-31,South,Consumer,26952.51
+2021-03-31,South,Corporate,28604.88
+2021-03-31,South,Home Office,26124.33
+2021-03-31,East,Consumer,27710.42
+2021-03-31,East,Corporate,26574.64
+2021-03-31,East,Home Office,27142.49
+2021-03-31,West,Consumer,28387.89
+2021-03-31,West,Corporate,24854.45
+2021-03-31,West,Home Office,32130.97
+2021-04-30,North,Consumer,24133.03
+2021-04-30,North,Corporate,23612.6
+2021-04-30,North,Home Office,29543.35
+2021-04-30,South,Consumer,28627.23
+2021-04-30,South,Corporate,28208.38
+2021-04-30,South,Home Office,28218.94
+2021-04-30,East,Consumer,26617.46
+2021-04-30,East,Corporate,24404.94
+2021-04-30,East,Home Office,26837.59
+2021-04-30,West,Consumer,24955.17
+2021-04-30,West,Corporate,29085.88
+2021-04-30,West,Home Office,26280.43
+2021-05-31,North,Consumer,23636.26
+2021-05-31,North,Corporate,24896.54
+2021-05-31,North,Home Office,26732.33
+2021-05-31,South,Consumer,24290.69
+2021-05-31,South,Corporate,23644.45
+2021-05-31,South,Home Office,26309.22
+2021-05-31,East,Consumer,26312.42
+2021-05-31,East,Corporate,24432.64
+2021-05-31,East,Home Office,24522.4
+2021-05-31,West,Consumer,26280.12
+2021-05-31,West,Corporate,22079.79
+2021-05-31,West,Home Office,22181.34
+2021-06-30,North,Consumer,22553.89
+2021-06-30,North,Corporate,23816.38
+2021-06-30,North,Home Office,25127.27
+2021-06-30,South,Consumer,28038.39
+2021-06-30,South,Corporate,26494.15
+2021-06-30,South,Home Office,23950.15
+2021-06-30,East,Consumer,24302.46
+2021-06-30,East,Corporate,21843.68
+2021-06-30,East,Home Office,24303.72
+2021-06-30,West,Consumer,23628.35
+2021-06-30,West,Corporate,25156.8
+2021-06-30,West,Home Office,22281.92
+2021-07-31,North,Consumer,24298.37
+2021-07-31,North,Corporate,26831.85
+2021-07-31,North,Home Office,22728.1
+2021-07-31,South,Consumer,24004.28
+2021-07-31,South,Corporate,24725.36
+2021-07-31,South,Home Office,21996.95
+2021-07-31,East,Consumer,23560.23
+2021-07-31,East,Corporate,23031.48
+2021-07-31,East,Home Office,23244.19
+2021-07-31,West,Consumer,21067.48
+2021-07-31,West,Corporate,23061.28
+2021-07-31,West,Home Office,24245.0
+2021-08-31,North,Consumer,25679.78
+2021-08-31,North,Corporate,24450.1
+2021-08-31,North,Home Office,27434.88
+2021-08-31,South,Consumer,20133.55
+2021-08-31,South,Corporate,24232.73
+2021-08-31,South,Home Office,22510.28
+2021-08-31,East,Consumer,27526.43
+2021-08-31,East,Corporate,20031.18
+2021-08-31,East,Home Office,19952.62
+2021-08-31,West,Consumer,20553.44
+2021-08-31,West,Corporate,16742.18
+2021-08-31,West,Home Office,20737.54
+2021-09-30,North,Consumer,19902.17
+2021-09-30,North,Corporate,22175.98
+2021-09-30,North,Home Office,22654.39
+2021-09-30,South,Consumer,26490.43
+2021-09-30,South,Corporate,24176.06
+2021-09-30,South,Home Office,20357.74
+2021-09-30,East,Consumer,19553.96
+2021-09-30,East,Corporate,23029.8
+2021-09-30,East,Home Office,18499.42
+2021-09-30,West,Consumer,26378.65
+2021-09-30,West,Corporate,24748.6
+2021-09-30,West,Home Office,20627.06
+2021-10-31,North,Consumer,18069.09
+2021-10-31,North,Corporate,25736.6
+2021-10-31,North,Home Office,22065.57
+2021-10-31,South,Consumer,25446.46
+2021-10-31,South,Corporate,18365.85
+2021-10-31,South,Home Office,20853.49
+2021-10-31,East,Consumer,22365.03
+2021-10-31,East,Corporate,22469.38
+2021-10-31,East,Home Office,21226.76
+2021-10-31,West,Consumer,23909.05
+2021-10-31,West,Corporate,19682.87
+2021-10-31,West,Home Office,21995.98
+2021-11-30,North,Consumer,23900.74
+2021-11-30,North,Corporate,24886.1
+2021-11-30,North,Home Office,25379.04
+2021-11-30,South,Consumer,20788.39
+2021-11-30,South,Corporate,19764.71
+2021-11-30,South,Home Office,26794.19
+2021-11-30,East,Consumer,24430.79
+2021-11-30,East,Corporate,21728.78
+2021-11-30,East,Home Office,27477.88
+2021-11-30,West,Consumer,23889.19
+2021-11-30,West,Corporate,26548.24
+2021-11-30,West,Home Office,23768.8
+2021-12-31,North,Consumer,30401.87
+2021-12-31,North,Corporate,29638.35
+2021-12-31,North,Home Office,24627.59
+2021-12-31,South,Consumer,27678.93
+2021-12-31,South,Corporate,26863.44
+2021-12-31,South,Home Office,28671.58
+2021-12-31,East,Consumer,22837.69
+2021-12-31,East,Corporate,26965.13
+2021-12-31,East,Home Office,27896.06
+2021-12-31,West,Consumer,20853.15
+2021-12-31,West,Corporate,22291.85
+2021-12-31,West,Home Office,20151.92
+2022-01-31,North,Consumer,26226.48
+2022-01-31,North,Corporate,28693.86
+2022-01-31,North,Home Office,30655.89
+2022-01-31,South,Consumer,27085.24
+2022-01-31,South,Corporate,30971.54
+2022-01-31,South,Home Office,23449.75
+2022-01-31,East,Consumer,22641.54
+2022-01-31,East,Corporate,26761.13
+2022-01-31,East,Home Office,27860.16
+2022-01-31,West,Consumer,26818.26
+2022-01-31,West,Corporate,21731.39
+2022-01-31,West,Home Office,26677.2
+2022-02-28,North,Consumer,24886.9
+2022-02-28,North,Corporate,29822.26
+2022-02-28,North,Home Office,29064.57
+2022-02-28,South,Consumer,25798.38
+2022-02-28,South,Corporate,26863.41
+2022-02-28,South,Home Office,25500.04
+2022-02-28,East,Consumer,27991.38
+2022-02-28,East,Corporate,30535.93
+2022-02-28,East,Home Office,25683.76
+2022-02-28,West,Consumer,29408.19
+2022-02-28,West,Corporate,26822.43
+2022-02-28,West,Home Office,26165.89
+2022-03-31,North,Consumer,28432.42
+2022-03-31,North,Corporate,26111.89
+2022-03-31,North,Home Office,27315.88
+2022-03-31,South,Consumer,25705.31
+2022-03-31,South,Corporate,33611.81
+2022-03-31,South,Home Office,28788.16
+2022-03-31,East,Consumer,26950.69
+2022-03-31,East,Corporate,29234.95
+2022-03-31,East,Home Office,28419.18
+2022-03-31,West,Consumer,28147.58
+2022-03-31,West,Corporate,30235.42
+2022-03-31,West,Home Office,30593.77
+2022-04-30,North,Consumer,27121.82
+2022-04-30,North,Corporate,27008.53
+2022-04-30,North,Home Office,27760.45
+2022-04-30,South,Consumer,22693.27
+2022-04-30,South,Corporate,24660.1
+2022-04-30,South,Home Office,31865.26
+2022-04-30,East,Consumer,32560.5
+2022-04-30,East,Corporate,27825.49
+2022-04-30,East,Home Office,29889.47
+2022-04-30,West,Consumer,29226.2
+2022-04-30,West,Corporate,36145.28
+2022-04-30,West,Home Office,31247.01
+2022-05-31,North,Consumer,27180.21
+2022-05-31,North,Corporate,25111.15
+2022-05-31,North,Home Office,23483.88
+2022-05-31,South,Consumer,28008.66
+2022-05-31,South,Corporate,25609.12
+2022-05-31,South,Home Office,23944.37
+2022-05-31,East,Consumer,25883.57
+2022-05-31,East,Corporate,24796.13
+2022-05-31,East,Home Office,31717.85
+2022-05-31,West,Consumer,29704.1
+2022-05-31,West,Corporate,27480.07
+2022-05-31,West,Home Office,31199.86
+2022-06-30,North,Consumer,26343.42
+2022-06-30,North,Corporate,23996.79
+2022-06-30,North,Home Office,29957.81
+2022-06-30,South,Consumer,27497.28
+2022-06-30,South,Corporate,23556.88
+2022-06-30,South,Home Office,25674.15
+2022-06-30,East,Consumer,23960.95
+2022-06-30,East,Corporate,22693.0
+2022-06-30,East,Home Office,28465.44
+2022-06-30,West,Consumer,30923.54
+2022-06-30,West,Corporate,22653.58
+2022-06-30,West,Home Office,27557.42
+2022-07-31,North,Consumer,23173.39
+2022-07-31,North,Corporate,23582.19
+2022-07-31,North,Home Office,23319.02
+2022-07-31,South,Consumer,22640.02
+2022-07-31,South,Corporate,24921.3
+2022-07-31,South,Home Office,22722.62
+2022-07-31,East,Consumer,25476.14
+2022-07-31,East,Corporate,24674.4
+2022-07-31,East,Home Office,24202.63
+2022-07-31,West,Consumer,22531.09
+2022-07-31,West,Corporate,23358.07
+2022-07-31,West,Home Office,26688.48
+2022-08-31,North,Consumer,25104.22
+2022-08-31,North,Corporate,21408.04
+2022-08-31,North,Home Office,24100.25
+2022-08-31,South,Consumer,25730.39
+2022-08-31,South,Corporate,19678.41
+2022-08-31,South,Home Office,25210.32
+2022-08-31,East,Consumer,22195.36
+2022-08-31,East,Corporate,25278.42
+2022-08-31,East,Home Office,21943.78
+2022-08-31,West,Consumer,19339.72
+2022-08-31,West,Corporate,19783.07
+2022-08-31,West,Home Office,23972.14
+2022-09-30,North,Consumer,24249.31
+2022-09-30,North,Corporate,21339.21
+2022-09-30,North,Home Office,25196.48
+2022-09-30,South,Consumer,19446.2
+2022-09-30,South,Corporate,23434.8
+2022-09-30,South,Home Office,20572.46
+2022-09-30,East,Consumer,21970.41
+2022-09-30,East,Corporate,23718.5
+2022-09-30,East,Home Office,21448.97
+2022-09-30,West,Consumer,22638.61
+2022-09-30,West,Corporate,26115.73
+2022-09-30,West,Home Office,22157.77
+2022-10-31,North,Consumer,26241.15
+2022-10-31,North,Corporate,21327.66
+2022-10-31,North,Home Office,25476.43
+2022-10-31,South,Consumer,27755.85
+2022-10-31,South,Corporate,17972.81
+2022-10-31,South,Home Office,22159.69
+2022-10-31,East,Consumer,25594.6
+2022-10-31,East,Corporate,23644.31
+2022-10-31,East,Home Office,25079.79
+2022-10-31,West,Consumer,22641.96
+2022-10-31,West,Corporate,24368.4
+2022-10-31,West,Home Office,23762.73
+2022-11-30,North,Consumer,28319.46
+2022-11-30,North,Corporate,26036.05
+2022-11-30,North,Home Office,26244.01
+2022-11-30,South,Consumer,24370.31
+2022-11-30,South,Corporate,24180.98
+2022-11-30,South,Home Office,24318.6
+2022-11-30,East,Consumer,26386.13
+2022-11-30,East,Corporate,24347.54
+2022-11-30,East,Home Office,26124.44
+2022-11-30,West,Consumer,30588.5
+2022-11-30,West,Corporate,27577.81
+2022-11-30,West,Home Office,24584.94
+2022-12-31,North,Consumer,30053.03
+2022-12-31,North,Corporate,26029.81
+2022-12-31,North,Home Office,21954.69
+2022-12-31,South,Consumer,24529.78
+2022-12-31,South,Corporate,22373.02
+2022-12-31,South,Home Office,26171.22
+2022-12-31,East,Consumer,27096.05
+2022-12-31,East,Corporate,31241.09
+2022-12-31,East,Home Office,27867.32
+2022-12-31,West,Consumer,26502.25
+2022-12-31,West,Corporate,29123.51
+2022-12-31,West,Home Office,21522.16
+2023-01-31,North,Consumer,29289.04
+2023-01-31,North,Corporate,30627.16
+2023-01-31,North,Home Office,25003.53
+2023-01-31,South,Consumer,31559.39
+2023-01-31,South,Corporate,29546.24
+2023-01-31,South,Home Office,27661.78
+2023-01-31,East,Consumer,30281.95
+2023-01-31,East,Corporate,34376.73
+2023-01-31,East,Home Office,29154.67
+2023-01-31,West,Consumer,29320.55
+2023-01-31,West,Corporate,27551.6
+2023-01-31,West,Home Office,26575.39
+2023-02-28,North,Consumer,32023.92
+2023-02-28,North,Corporate,27807.87
+2023-02-28,North,Home Office,30126.99
+2023-02-28,South,Consumer,28753.93
+2023-02-28,South,Corporate,31145.53
+2023-02-28,South,Home Office,30782.23
+2023-02-28,East,Consumer,32541.93
+2023-02-28,East,Corporate,28673.04
+2023-02-28,East,Home Office,29273.39
+2023-02-28,West,Consumer,27501.17
+2023-02-28,West,Corporate,28837.34
+2023-02-28,West,Home Office,30891.33
+2023-03-31,North,Consumer,32392.47
+2023-03-31,North,Corporate,28194.59
+2023-03-31,North,Home Office,32674.01
+2023-03-31,South,Consumer,33889.09
+2023-03-31,South,Corporate,31533.59
+2023-03-31,South,Home Office,35191.99
+2023-03-31,East,Consumer,28565.53
+2023-03-31,East,Corporate,27388.36
+2023-03-31,East,Home Office,26053.2
+2023-03-31,West,Consumer,34240.11
+2023-03-31,West,Corporate,32135.91
+2023-03-31,West,Home Office,30361.04
+2023-04-30,North,Consumer,30948.0
+2023-04-30,North,Corporate,27434.35
+2023-04-30,North,Home Office,36362.46
+2023-04-30,South,Consumer,30571.13
+2023-04-30,South,Corporate,30521.56
+2023-04-30,South,Home Office,32062.49
+2023-04-30,East,Consumer,31450.6
+2023-04-30,East,Corporate,30807.79
+2023-04-30,East,Home Office,28271.89
+2023-04-30,West,Consumer,31426.75
+2023-04-30,West,Corporate,34953.14
+2023-04-30,West,Home Office,33611.63
+2023-05-31,North,Consumer,33282.97
+2023-05-31,North,Corporate,28021.96
+2023-05-31,North,Home Office,26825.99
+2023-05-31,South,Consumer,28985.53
+2023-05-31,South,Corporate,29439.31
+2023-05-31,South,Home Office,32035.48
+2023-05-31,East,Consumer,25068.84
+2023-05-31,East,Corporate,33123.88
+2023-05-31,East,Home Office,28904.98
+2023-05-31,West,Consumer,28232.8
+2023-05-31,West,Corporate,26769.74
+2023-05-31,West,Home Office,25162.86
+2023-06-30,North,Consumer,30007.93
+2023-06-30,North,Corporate,28133.29
+2023-06-30,North,Home Office,24725.1
+2023-06-30,South,Consumer,24712.3
+2023-06-30,South,Corporate,27110.54
+2023-06-30,South,Home Office,32122.55
+2023-06-30,East,Consumer,27301.02
+2023-06-30,East,Corporate,24192.14
+2023-06-30,East,Home Office,27335.64
+2023-06-30,West,Consumer,27268.19
+2023-06-30,West,Corporate,21207.78
+2023-06-30,West,Home Office,27814.26
+2023-07-31,North,Consumer,26022.66
+2023-07-31,North,Corporate,28340.52
+2023-07-31,North,Home Office,31222.39
+2023-07-31,South,Consumer,29416.41
+2023-07-31,South,Corporate,25927.78
+2023-07-31,South,Home Office,23833.69
+2023-07-31,East,Consumer,33033.4
+2023-07-31,East,Corporate,26748.05
+2023-07-31,East,Home Office,26634.82
+2023-07-31,West,Consumer,26539.69
+2023-07-31,West,Corporate,27095.21
+2023-07-31,West,Home Office,26239.1
+2023-08-31,North,Consumer,24217.77
+2023-08-31,North,Corporate,24284.78
+2023-08-31,North,Home Office,25570.04
+2023-08-31,South,Consumer,24293.36
+2023-08-31,South,Corporate,23869.81
+2023-08-31,South,Home Office,25918.0
+2023-08-31,East,Consumer,25014.48
+2023-08-31,East,Corporate,29411.91
+2023-08-31,East,Home Office,19024.5
+2023-08-31,West,Consumer,28380.69
+2023-08-31,West,Corporate,28767.14
+2023-08-31,West,Home Office,20468.45
+2023-09-30,North,Consumer,24543.28
+2023-09-30,North,Corporate,24471.4
+2023-09-30,North,Home Office,21881.22
+2023-09-30,South,Consumer,23455.46
+2023-09-30,South,Corporate,22623.56
+2023-09-30,South,Home Office,29780.68
+2023-09-30,East,Consumer,27739.2
+2023-09-30,East,Corporate,28578.89
+2023-09-30,East,Home Office,27204.18
+2023-09-30,West,Consumer,22577.37
+2023-09-30,West,Corporate,24088.7
+2023-09-30,West,Home Office,26623.44
+2023-10-31,North,Consumer,22896.6
+2023-10-31,North,Corporate,27734.42
+2023-10-31,North,Home Office,25351.11
+2023-10-31,South,Consumer,25014.87
+2023-10-31,South,Corporate,27729.32
+2023-10-31,South,Home Office,27062.58
+2023-10-31,East,Consumer,25049.51
+2023-10-31,East,Corporate,28850.25
+2023-10-31,East,Home Office,23249.27
+2023-10-31,West,Consumer,27491.76
+2023-10-31,West,Corporate,27434.68
+2023-10-31,West,Home Office,25178.06
+2023-11-30,North,Consumer,28015.33
+2023-11-30,North,Corporate,24072.22
+2023-11-30,North,Home Office,29510.07
+2023-11-30,South,Consumer,26737.74
+2023-11-30,South,Corporate,25893.19
+2023-11-30,South,Home Office,29822.52
+2023-11-30,East,Consumer,25439.14
+2023-11-30,East,Corporate,23678.85
+2023-11-30,East,Home Office,23308.43
+2023-11-30,West,Consumer,28715.02
+2023-11-30,West,Corporate,23998.93
+2023-11-30,West,Home Office,31586.99
+2023-12-31,North,Consumer,23645.18
+2023-12-31,North,Corporate,33091.14
+2023-12-31,North,Home Office,29377.54
+2023-12-31,South,Consumer,28608.22
+2023-12-31,South,Corporate,27487.7
+2023-12-31,South,Home Office,29847.84
+2023-12-31,East,Consumer,28755.91
+2023-12-31,East,Corporate,31608.25
+2023-12-31,East,Home Office,29135.57
+2023-12-31,West,Consumer,29225.75
+2023-12-31,West,Corporate,27940.97
+2023-12-31,West,Home Office,28707.64
+2024-01-31,North,Consumer,31269.5
+2024-01-31,North,Corporate,26224.58
+2024-01-31,North,Home Office,27129.54
+2024-01-31,South,Consumer,32358.16
+2024-01-31,South,Corporate,30927.16
+2024-01-31,South,Home Office,30040.04
+2024-01-31,East,Consumer,30546.08
+2024-01-31,East,Corporate,31368.95
+2024-01-31,East,Home Office,29150.6
+2024-01-31,West,Consumer,28554.24
+2024-01-31,West,Corporate,30989.61
+2024-01-31,West,Home Office,28054.07
+2024-02-29,North,Consumer,32768.71
+2024-02-29,North,Corporate,27491.62
+2024-02-29,North,Home Office,34320.97
+2024-02-29,South,Consumer,32929.57
+2024-02-29,South,Corporate,32388.15
+2024-02-29,South,Home Office,34204.8
+2024-02-29,East,Consumer,35911.76
+2024-02-29,East,Corporate,34284.0
+2024-02-29,East,Home Office,27145.89
+2024-02-29,West,Consumer,28549.13
+2024-02-29,West,Corporate,30186.03
+2024-02-29,West,Home Office,31813.3
+2024-03-31,North,Consumer,33594.15
+2024-03-31,North,Corporate,30485.64
+2024-03-31,North,Home Office,32766.92
+2024-03-31,South,Consumer,30411.54
+2024-03-31,South,Corporate,30771.21
+2024-03-31,South,Home Office,28783.35
+2024-03-31,East,Consumer,29991.92
+2024-03-31,East,Corporate,28920.79
+2024-03-31,East,Home Office,29860.32
+2024-03-31,West,Consumer,34934.1
+2024-03-31,West,Corporate,29926.5
+2024-03-31,West,Home Office,38880.96
+2024-04-30,North,Consumer,33281.37
+2024-04-30,North,Corporate,32510.17
+2024-04-30,North,Home Office,29902.18
+2024-04-30,South,Consumer,33798.85
+2024-04-30,South,Corporate,30608.98
+2024-04-30,South,Home Office,32353.1
+2024-04-30,East,Consumer,38448.29
+2024-04-30,East,Corporate,31807.93
+2024-04-30,East,Home Office,34921.26
+2024-04-30,West,Consumer,30290.14
+2024-04-30,West,Corporate,31960.6
+2024-04-30,West,Home Office,36475.08
+2024-05-31,North,Consumer,29532.58
+2024-05-31,North,Corporate,35631.12
+2024-05-31,North,Home Office,32869.38
+2024-05-31,South,Consumer,29693.83
+2024-05-31,South,Corporate,32681.02
+2024-05-31,South,Home Office,33531.39
+2024-05-31,East,Consumer,32654.52
+2024-05-31,East,Corporate,27174.44
+2024-05-31,East,Home Office,29282.16
+2024-05-31,West,Consumer,30481.2
+2024-05-31,West,Corporate,30913.92
+2024-05-31,West,Home Office,32651.68
+2024-06-30,North,Consumer,30194.25
+2024-06-30,North,Corporate,26411.64
+2024-06-30,North,Home Office,30700.49
+2024-06-30,South,Consumer,31276.46
+2024-06-30,South,Corporate,31149.48
+2024-06-30,South,Home Office,32451.95
+2024-06-30,East,Consumer,31834.81
+2024-06-30,East,Corporate,30897.95
+2024-06-30,East,Home Office,29574.59
+2024-06-30,West,Consumer,25597.6
+2024-06-30,West,Corporate,30824.05
+2024-06-30,West,Home Office,30269.22
+2024-07-31,North,Consumer,29078.95
+2024-07-31,North,Corporate,25208.13
+2024-07-31,North,Home Office,25697.36
+2024-07-31,South,Consumer,31032.88
+2024-07-31,South,Corporate,28301.11
+2024-07-31,South,Home Office,30103.75
+2024-07-31,East,Consumer,28470.8
+2024-07-31,East,Corporate,28474.39
+2024-07-31,East,Home Office,30745.71
+2024-07-31,West,Consumer,27109.89
+2024-07-31,West,Corporate,28640.3
+2024-07-31,West,Home Office,27244.31
+2024-08-31,North,Consumer,26365.68
+2024-08-31,North,Corporate,26678.99
+2024-08-31,North,Home Office,28007.26
+2024-08-31,South,Consumer,26255.05
+2024-08-31,South,Corporate,30591.31
+2024-08-31,South,Home Office,25215.41
+2024-08-31,East,Consumer,26984.74
+2024-08-31,East,Corporate,26352.6
+2024-08-31,East,Home Office,31069.37
+2024-08-31,West,Consumer,27943.31
+2024-08-31,West,Corporate,30031.54
+2024-08-31,West,Home Office,23738.02
+2024-09-30,North,Consumer,27867.63
+2024-09-30,North,Corporate,29424.08
+2024-09-30,North,Home Office,27405.71
+2024-09-30,South,Consumer,29863.7
+2024-09-30,South,Corporate,25906.78
+2024-09-30,South,Home Office,30723.37
+2024-09-30,East,Consumer,32947.25
+2024-09-30,East,Corporate,26292.9
+2024-09-30,East,Home Office,26086.24
+2024-09-30,West,Consumer,30833.46
+2024-09-30,West,Corporate,31148.93
+2024-09-30,West,Home Office,25892.85
+2024-10-31,North,Consumer,26701.46
+2024-10-31,North,Corporate,27047.46
+2024-10-31,North,Home Office,24390.8
+2024-10-31,South,Consumer,25455.29
+2024-10-31,South,Corporate,25241.57
+2024-10-31,South,Home Office,25832.43
+2024-10-31,East,Consumer,27665.21
+2024-10-31,East,Corporate,28337.46
+2024-10-31,East,Home Office,31628.18
+2024-10-31,West,Consumer,25256.04
+2024-10-31,West,Corporate,30212.73
+2024-10-31,West,Home Office,27216.95
+2024-11-30,North,Consumer,28876.34
+2024-11-30,North,Corporate,30687.05
+2024-11-30,North,Home Office,26193.19
+2024-11-30,South,Consumer,29956.02
+2024-11-30,South,Corporate,29416.13
+2024-11-30,South,Home Office,30231.13
+2024-11-30,East,Consumer,29722.92
+2024-11-30,East,Corporate,35138.25
+2024-11-30,East,Home Office,27405.65
+2024-11-30,West,Consumer,27672.51
+2024-11-30,West,Corporate,27442.15
+2024-11-30,West,Home Office,27611.31
+2024-12-31,North,Consumer,29056.53
+2024-12-31,North,Corporate,33622.54
+2024-12-31,North,Home Office,34201.26
+2024-12-31,South,Consumer,29223.13
+2024-12-31,South,Corporate,28569.11
+2024-12-31,South,Home Office,31828.54
+2024-12-31,East,Consumer,29269.44
+2024-12-31,East,Corporate,32232.33
+2024-12-31,East,Home Office,31157.31
+2024-12-31,West,Consumer,26860.64
+2024-12-31,West,Corporate,34518.76
+2024-12-31,West,Home Office,35139.69
